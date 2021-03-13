@@ -8,7 +8,7 @@ Visually impaired people face many challenges in their day to day life which are
 
 ## Solution Proposed
 In order so solve this, we can develop a hardware as well as software solution.
-- Trinetra headband: Raspberry Pi embedded  with Tensorflow to detect objects in the surroundings
+- Trinetra headband: Raspberry Pi embedded  with Tensorflow to detect objects in the surroundings.<br>
     <img src="https://github.com/keivalya/trinetra/blob/main/CAD/Isometric%20view.jpeg" alt="Isometric view of hardware" width="250" height="whatever">
 - A simple Web Application which uses the device in your hand, a smartphone to read your surroundings for you. We implemented it just in case if people somehow can’t access our hardware.<br>
     <img src="https://github.com/keivalya/trinetra/blob/main/Screenshots/motorcycle%20motorcycle%20car.jpeg" alt="Motorcycle and cars" width="250" height="whatever">

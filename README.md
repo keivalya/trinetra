@@ -1,5 +1,5 @@
 # trinetra
-
+### "... because when we design technology for greater accessibility, everyone benefits."
 
 ## Problem
 Visually impaired people face many challenges in their day to day life which are very convenient for others. As they might say, sidewalks can be the most dangerous of places. One of the consequences of vision loss is being uncomfortable about safety while moving around or traveling independently. Safe navigation on sidewalks is the most important requirement.
@@ -14,7 +14,7 @@ In order so solve this, we can develop a hardware as well as software solution.
     <img src="https://github.com/keivalya/trinetra/blob/main/Screenshots/motorcycle%20motorcycle%20car.jpeg" alt="Motorcycle and cars" width="250" height="whatever">
 
 ## Inspiration
-
+We asked ourselves: How can technology help improve our quality of life? How can we navigate the world without using the sense of vision? 
 
 ## Tech Stack Used
 We will be using, OR have used:
@@ -32,7 +32,8 @@ For Web-App
 
 
 ## Future of trinetra
-We are planning on building more accurate ML model and implement a better hardware solution. On duscussing upon the same last night, we came up with the idea of a Kotlin Application which will not only assist a person through the surrounding environment, but also within their device.
+We are planning on building more accurate ML model and implement a better hardware solution. On duscussing upon the same last night, we came up with the idea of a Kotlin Application which will not only assist a person through the surrounding environment, but also within their device. We will soon be borrowing Google's text-to-speech API in order to read-out the texts.
+
 
 ## Team Members
 - Keivalya Pandya

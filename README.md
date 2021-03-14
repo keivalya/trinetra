@@ -2,8 +2,8 @@
 ### "... because when we design technology for greater accessibility, everyone benefits."
 
 ## Problem
-Visually impaired people face many challenges in their day to day life which are very convenient for others. As they might say, sidewalks can be the most dangerous of places. One of the consequences of vision loss is being uncomfortable about safety while moving around or traveling independently. Safe navigation on sidewalks is the most important requirement.
-<img src="https://64.media.tumblr.com/cd956b429ed8b4349ca7ac401adb0ca8/e8500429abdc5ed3-6c/s540x810/586845e89c2b089fc1702a87db3a04ea47bac8e2.gifv" alt="StartUp" width="whatever" height="whatever">
+Visually impaired people face many challenges in their day to day life which are very convenient for others. As they might say, sidewalks can be the most dangerous of places. One of the consequences of vision loss is being uncomfortable about safety while moving around or traveling independently. Safe navigation on sidewalks is the most important requirement.<br>
+<div style="text-align:center"><img src="https://64.media.tumblr.com/cd956b429ed8b4349ca7ac401adb0ca8/e8500429abdc5ed3-6c/s540x810/586845e89c2b089fc1702a87db3a04ea47bac8e2.gifv" alt="StartUp" width="whatever" height="whatever"></div>
 
 
 ## Solution Proposed

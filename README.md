@@ -7,7 +7,7 @@ Visually impaired people face many challenges in their day to day life which are
 
 
 ## Solution Proposed
-In order so solve this, we can develop a hardware as well as software solution.
+In order to solve this, we can develop a hardware as well as software solution.
 - Trinetra headband: Raspberry Pi embedded  with Tensorflow to detect objects in the surroundings.<br>
     <img src="https://github.com/keivalya/trinetra/blob/main/CAD/Isometric%20view.jpeg" alt="Isometric view of hardware" width="250" height="whatever">
 - A simple Web Application which uses the device in your hand, a smartphone to read your surroundings for you. We implemented it just in case if people somehow can’t access our hardware.<br>
@@ -20,7 +20,7 @@ We asked ourselves: How can technology help improve our quality of life? How can
 We will be using, OR have used:
 - Raspberry Pi 4B module for ML Model training and deployment
 - Pi Cam is a feasible option to capture images
-- Lipo battery is light weight and easily chargable
+- Lipo battery is lightweight and easily chargeable
 
 For Web-App
 - ReactJS
@@ -29,7 +29,7 @@ For Web-App
 - CocoSSD
 
 ## Demo Video
-
+[![](http://img.youtube.com/vi/nqBbk1v22vY/0.jpg)](http://www.youtube.com/watch?v=nqBbk1v22vY "")
 
 ## Future of trinetra
 We are planning on building more accurate ML model and implement a better hardware solution. On duscussing upon the same last night, we came up with the idea of a Kotlin Application which will not only assist a person through the surrounding environment, but also within their device. We will soon be borrowing Google's text-to-speech API in order to read-out the texts.
